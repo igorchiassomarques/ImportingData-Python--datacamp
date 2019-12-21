@@ -1,6 +1,6 @@
 # Import package
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
 # Assign filename to variable: file
 file = 'digits.csv'
